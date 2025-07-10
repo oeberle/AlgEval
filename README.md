@@ -2,8 +2,8 @@
 <a name="readme-top"></a>
 <!--
 
-<!-- AlgEval: Algorithmic Evaluation & Understanding of generative AI -->
-## AlgEval: Algorithmic Evaluation & Understanding of generative AI
+<!-- AlgEval: Algorithmic Evaluation & Understanding of Generative AI -->
+## AlgEval: Algorithmic Evaluation & Understanding of Generative AI
 
 This code contains code to reproduce the graph navigation case study of ICML 2025 Paper [We Need An Algorithmic Understanding of Generative AI](https://openreview.net/forum?id=eax2ixyeQL). 
 
